@@ -1,8 +1,9 @@
-# React + Vite
+# Implementación del Algoritmo de Korf para la Solución Óptima del Cubo Rubik
+Alejos Yarasca Fiorella Andrea (fiorella.alejos@yahoo.com)
+Llana Chavez Walter Rodolfo (walter.wr7@gmail.com)
+Luna Jaramillo Juan Marcos (jmlunaj@pucp.edu.pe)
+Medina Rodríguez Henry (hmedinar@uni.pe)
+Salazar Vega Edwin Martín (edwin@iartificial.io)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+MIA-103 Fundamentos de Inteligencia Artificial  - Maestría en Inteligencia Artificial - 2024-I
+Facultad de Ingeniería Industrial y Sistemas  -  Universidad Nacional de Ingeniería

@@ -1,14 +1,20 @@
-# Rubiks Cube Solver
+# Implementación del Algoritmo de Korf para la Solución Óptima del Cubo Rubik
+Alejos Yarasca Fiorella Andrea (fiorella.alejos@yahoo.com)
+Llana Chavez Walter Rodolfo (walter.wr7@gmail.com)
+Luna Jaramillo Juan Marcos (jmlunaj@pucp.edu.pe)
+Medina Rodríguez Henry (hmedinar@uni.pe)
+Salazar Vega Edwin Martín (edwin@iartificial.io)
+
+MIA-103 Fundamentos de Inteligencia Artificial  - Maestría en Inteligencia Artificial - 2024-I
+Facultad de Ingeniería Industrial y Sistemas  -  Universidad Nacional de Ingeniería
+
 ## Description
-The following is a program for solving Rubik's cubes in the console written in python3. By Default the solver will work with a randomly scrambled cube hower this can be modified. To modify the cube being solved go into the main.py file and change the following variable to the representation of the cube you want.
 
 ```
 cube = RubiksCube(
     state="rrrwrwrgryrywwwwrwbrbggggggwowyyyyyygygbbbbbbooobooooo"
 )
 ```
-
-You can also adjust your heuristics globals found at the top:
 
 ```
 MAX_MOVES = 5 #max amount of moves when building heuristics map
@@ -32,6 +38,3 @@ step 5: type the following command:
 python3 main.py
 ```
 step 6: type in the action you wish to perform
-
-# Write Up
-* https://medium.com/@bellerb/rubiks-cube-solver-96fa6c56fbe4
