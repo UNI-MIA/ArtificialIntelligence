@@ -11,3 +11,4 @@ nodes, edges = ox.graph_to_gdfs(G)
 # Visualizar el gráfico de red
 fig, ax = ox.plot_graph(G)
 plt.show()
+plt.savefig('plot.png')
